@@ -283,7 +283,7 @@ Apache 2.0 - See [LICENSE][license] for more information.
 [ga-description]: #ga
 [preview-stability]: https://img.shields.io/badge/stability-preview-orange
 [preview-description]: #preview
-[launch-stages]: https://cloud.google.com/products#section-22
+[launch-stages]: https://cloud.google.com/products#section-
 [gcloud-homepage]: https://cloud.google.com/nodejs/
 [nodejs-getting-started]: https://github.com/GoogleCloudPlatform/nodejs-getting-started
 [nodejs-getting-started-tutorial]: https://cloud.google.com/nodejs/getting-started/hello-world
